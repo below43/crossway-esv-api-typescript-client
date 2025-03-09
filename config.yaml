@@ -1,0 +1,3 @@
+axiosVersion: ^1.6.1
+npmName: "@christchurchmayfair/crossway-esv-api-client"
+useSingleRequestParameter: true
