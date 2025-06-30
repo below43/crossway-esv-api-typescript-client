@@ -17,9 +17,13 @@
   "license": "Unlicense",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "build": "tsc",
-    "prepare": "npm run build"
+    "prepare": "npm run build",
+    "publish:github": "npm publish"
   },
   "dependencies": {
     "axios": "^1.6.1"
