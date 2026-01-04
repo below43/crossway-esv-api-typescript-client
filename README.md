@@ -36,7 +36,8 @@ navigate to the folder of your consuming project and run one of the following co
 _published:_
 
 ```
-npm install @christchurchmayfair/crossway-esv-api-client@3.0.0 --save
+npm install @below43/crossway-esv-api-typescript-client@3.0.1-1 --save
+
 ```
 
 _unPublished (not recommended):_

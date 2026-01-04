@@ -1,18 +1,18 @@
 {
-  "name": "@christchurchmayfair/crossway-esv-api-client",
+  "name": "@below43/crossway-esv-api-typescript-client",
   "version": "3.0.1-1",
-  "description": "OpenAPI client for @christchurchmayfair/crossway-esv-api-client",
+  "description": "OpenAPI client for @below43/crossway-esv-api-client",
   "author": "OpenAPI-Generator Contributors",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChristChurchMayfair/crossway-esv-api-typescript-client.git"
+    "url": "https://github.com/below43/crossway-esv-api-typescript-client.git"
   },
   "keywords": [
     "axios",
     "typescript",
     "openapi-client",
     "openapi-generator",
-    "@christchurchmayfair/crossway-esv-api-client"
+    "@below43/crossway-esv-api-typescript-client"
   ],
   "license": "Unlicense",
   "main": "./dist/index.js",
